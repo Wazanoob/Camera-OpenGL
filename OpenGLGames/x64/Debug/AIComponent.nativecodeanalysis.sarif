@@ -1,0 +1,547 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31631.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/aicomponent.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "e5d3d9ff7bcc8557e8985be65586ff976662cd32c85fcecec281c25e74aad79c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/aicomponent.h"
+          },
+          "hashes": {
+            "sha-256": "bf8dd2aedf48dc8781a0e1ed018ab3070fafc5ea2b9facfc2f88b2fad4cc138c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/movecomponent.h"
+          },
+          "hashes": {
+            "sha-256": "8fc4ef8eb3bbdfa5f71c36567457bfe532b6ad6e37d7488809903dcee24cbd91"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/component.h"
+          },
+          "hashes": {
+            "sha-256": "68f13fcaf029116255154c397783f3eee51931ddbbe918e7e99a0d24ff67a525"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_stdinc.h"
+          },
+          "hashes": {
+            "sha-256": "01adb32e67db186d0a5ecb2382e6dfca6a5ad11f2d15f5bebacc234f30d3f06e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_config.h"
+          },
+          "hashes": {
+            "sha-256": "7290bed019ae51f407149890a7cab0f1ca738a0d98e76654ad1887080d93234e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_platform.h"
+          },
+          "hashes": {
+            "sha-256": "da4a1708de8cb2bbd91d29cc9db9ea358bb2c2244220855d99d444412d698b7d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/begin_code.h"
+          },
+          "hashes": {
+            "sha-256": "c589ea9c7ddae0e7980ca167b7ec6e91d71b3fc8d365508077ec904d5d4b5030"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/close_code.h"
+          },
+          "hashes": {
+            "sha-256": "5bce3266a2e7ec8906b88f02aa9224d8e5a6967c5221dfa6dd5debe5a12c8c11"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/game.h"
+          },
+          "hashes": {
+            "sha-256": "3f5a09e78770d66f2c87cff71c1a6b8953ff8d233d8a104cdd93ee0e3d1d2288"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/window.h"
+          },
+          "hashes": {
+            "sha-256": "b40b71f216e77ad756d9592ae8061a553fbd9c0919520a799bf72c6a37cf9d8a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl.h"
+          },
+          "hashes": {
+            "sha-256": "28ac88e97ee42131028f9ed420baf3e8a69b2473eaa46c16ccdff83e6529c805"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_main.h"
+          },
+          "hashes": {
+            "sha-256": "3b72514c3539ca84e678a431ad4b51e920b73792519a3f051cb01d738b5d9e15"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_assert.h"
+          },
+          "hashes": {
+            "sha-256": "d498bed89bfc15118c93eb8d2ef65236b583318b0a08f3964473bd6b9eb07c3d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_atomic.h"
+          },
+          "hashes": {
+            "sha-256": "09d9edec9b51a2842c055beee153ca188ede201f2d84bb85987418dd68eb3817"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_audio.h"
+          },
+          "hashes": {
+            "sha-256": "4dd2ee7811c3758f0f445caa6bbaa659f2d9971c52f8c310c77ff5654c68c1bd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_error.h"
+          },
+          "hashes": {
+            "sha-256": "3569cc16feb4abfcbe04b88812cf307e2590d0589d95166a35be3dce1615f8ba"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_endian.h"
+          },
+          "hashes": {
+            "sha-256": "b1e4213dd16ae6e92caf189cbfde5e567012aeb7ed0943c41c596d4bf9736fff"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_mutex.h"
+          },
+          "hashes": {
+            "sha-256": "d19cb9305057f726d19aa94b50eceba65fbd966ed51ddb70b68a01f1e064bcd2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_thread.h"
+          },
+          "hashes": {
+            "sha-256": "0dc0fbc1b5e9211940a42abd638ad8d2d7cbf7882a9f226c8b1e44eabedf8855"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_rwops.h"
+          },
+          "hashes": {
+            "sha-256": "e317474e08d8367161e032359c7a837c1498fc3aa460713c850d619d5ea7f263"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_clipboard.h"
+          },
+          "hashes": {
+            "sha-256": "25db925f8a074fb034c92b9a556eb10d9a27992b6d98968167875938d91e75a7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_cpuinfo.h"
+          },
+          "hashes": {
+            "sha-256": "e8ccf2371298c5f9321174a394c24d2343a8cf51bde6f588fe53bf441413c03e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_events.h"
+          },
+          "hashes": {
+            "sha-256": "7b8ce66c26801c7413bb27ee79ca1743bb15a5384f4815e927dabe40ba08eb5c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_video.h"
+          },
+          "hashes": {
+            "sha-256": "3cb11da3c83aeeb35e0f5d262c3181b6e38d4c910a8a241af87742dd4db04072"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_pixels.h"
+          },
+          "hashes": {
+            "sha-256": "d9da1c3b87f2aba87f180969e2175a22108cefe75f481bd373902906c197869c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_rect.h"
+          },
+          "hashes": {
+            "sha-256": "490aad67b7aa54b887a084ef157a13ae411e42911553e2d14b8c8cdc3876c59e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_surface.h"
+          },
+          "hashes": {
+            "sha-256": "bc6a9190fae806d181d05569f59fed5c997875e5109983ea293851680cc099af"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_blendmode.h"
+          },
+          "hashes": {
+            "sha-256": "e7a68ea79bf3900014737a8709cb33d295a511c390e500086c2ad3bb9fa49f61"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_keyboard.h"
+          },
+          "hashes": {
+            "sha-256": "64f38feabae685379fe881957d8c12d20c580eb29b9b9e22f58bdeef1904bd70"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_keycode.h"
+          },
+          "hashes": {
+            "sha-256": "ec70a3413b8d68a0763599d4b76c41a653f8e8f4b8c9368c00986105abaf655a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_scancode.h"
+          },
+          "hashes": {
+            "sha-256": "90854e3e7fe0427b37bbdb24eed15920c24a79591030c7eff83e1bf78e4b786c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_mouse.h"
+          },
+          "hashes": {
+            "sha-256": "2c8114dcf783db9c6a271dd1160474f0ce0965c6236c7b0b4a2a0364c64c00c4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_joystick.h"
+          },
+          "hashes": {
+            "sha-256": "8bcc52b3f741eb4cd35a5eb00f680d5d671f0a7000f5a687a99a87170c8944ad"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_gamecontroller.h"
+          },
+          "hashes": {
+            "sha-256": "cd2f3d551e9133c8901f0660457f4df860c810a034025a85ba7e71b2adb70dd1"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_quit.h"
+          },
+          "hashes": {
+            "sha-256": "5ebcc749715eaef9299f63f002fd5e80e3c43c6723775e81ec379444cce9297a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_gesture.h"
+          },
+          "hashes": {
+            "sha-256": "21538515aa7e108a9d71b0b781c62f81f6a0693a360f032ba2219692e514978f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_touch.h"
+          },
+          "hashes": {
+            "sha-256": "32367ece45557c53088d293de37f7aa5ef90bf18ae62b4be4024619851cb429a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_filesystem.h"
+          },
+          "hashes": {
+            "sha-256": "9aaa955b6b411c6d34612dd35e825e94c04a92c6b9f7ab6b685d183dcd8b6f13"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_haptic.h"
+          },
+          "hashes": {
+            "sha-256": "dc9190ae4564ce674679e1ab03fe39ae6ff5a64e3315bad0661fb573cceb7920"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_hints.h"
+          },
+          "hashes": {
+            "sha-256": "2928a432bf41e0858ee84b391e4d9026174a3dda791f90b9e94490f3458a3042"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_loadso.h"
+          },
+          "hashes": {
+            "sha-256": "1cd8aa0998f43892644caf078a627fef58023f401bdcbb668ff2f922950397fe"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_log.h"
+          },
+          "hashes": {
+            "sha-256": "bca5ace6ae1abef0dcbb6979e5269fc56b73444323770185de3cfa8f49efb160"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_messagebox.h"
+          },
+          "hashes": {
+            "sha-256": "aebce515fed18129ea57b3c96a17115e19c6267682c3616ed1747cf02842bc8e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_metal.h"
+          },
+          "hashes": {
+            "sha-256": "a47e5c7384c1ee5afe01ff1e3e309bdd0f4824c3a3fe6fa069e324b0b72deade"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_power.h"
+          },
+          "hashes": {
+            "sha-256": "23fc59fd6a5ddf2b515ff73025a79fdcec473bc5a9e0153684d80450a021ed72"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_render.h"
+          },
+          "hashes": {
+            "sha-256": "cb731b87c4ad2b50e0a8ade850cb58e0ab7069f7250d9ed95e334844c8a3844a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_sensor.h"
+          },
+          "hashes": {
+            "sha-256": "7a26de4a2a2ec132f51abc96266e482cd18a026ffd9b2f9d3a2340216a207c30"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_shape.h"
+          },
+          "hashes": {
+            "sha-256": "e63324da00c1a4056d394e4532ec689b635e7596a1b53e6c8f2c872a8854f40c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_system.h"
+          },
+          "hashes": {
+            "sha-256": "ceecb50c0be8e2898ab0112803b2b4d9bd03ad07349aea4c907860ae0806e15d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_timer.h"
+          },
+          "hashes": {
+            "sha-256": "e1d79bcd5f38e250141fb783ed58ae13573b650f22c50d138a1792133cbe1d2c"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2-2.0.12/include/sdl_version.h"
+          },
+          "hashes": {
+            "sha-256": "23d591f5079a9ee82d9ce460a5137e48fd2351caacc09d148ea784d0801e354e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/rendererogl.h"
+          },
+          "hashes": {
+            "sha-256": "9bf82dbfa9af6beffc1742b6ba5f17b3f7b2a655bd2ceea5c879136814bedc85"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/irenderer.h"
+          },
+          "hashes": {
+            "sha-256": "ac595ee5fb013caa3733e20dfd8fabf536c4b0da5ae083c0f19407cd35488615"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/vector2.h"
+          },
+          "hashes": {
+            "sha-256": "f401e5aa4e352f43c6f23582d8010cfcfd099e9bf5c495739bd977b5031de23d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/vertexarray.h"
+          },
+          "hashes": {
+            "sha-256": "a4ed3a8c837e74b1db4bed8b687a254b21031800d7ac5ac4e541788cb200a06a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/shader.h"
+          },
+          "hashes": {
+            "sha-256": "6ea9dd34d476928e53a539b3db40acc295f63ad7dd0ee17481b603eb58cc7a85"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/glew-2.1.0/include/gl/glew.h"
+          },
+          "hashes": {
+            "sha-256": "1a2d50dc00a69940838cb3b5413cf7a7ac3cee8078672f27ffbfa2d3b88ad344"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/matrix4.h"
+          },
+          "hashes": {
+            "sha-256": "25aa814c584ee1625b2e9ee94bdd6255e9f85299f1360cc4f80a448a6fc770b4"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/vector3.h"
+          },
+          "hashes": {
+            "sha-256": "b2e17eb1f8b64395f88e371962d6aa44818f550b7266b32919e172723db2b583"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/maths.h"
+          },
+          "hashes": {
+            "sha-256": "ea299cd2cae0c7dae788a26628459059a4dbdc35fd8c11dd0831067f6e1bc560"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/ressources/tools/sdl/sdl2_ttf-2.0.15/include/sdl_ttf.h"
+          },
+          "hashes": {
+            "sha-256": "c9cbe236e37f44387894d13bf1f8988974e25ab242d2f63daf5ca44c5abcdbd6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/ball.h"
+          },
+          "hashes": {
+            "sha-256": "750addde076563409687e4332308aad00689ab7e614c3f8ac5354e3adec44470"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/actor.h"
+          },
+          "hashes": {
+            "sha-256": "1843325742f1c79d1ae43978eb5bba1f08c08f0238d0aa6d345bf74d2ea0cdfe"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/cpaya/source/repos/openglgames - 3d extend/openglgames/log.h"
+          },
+          "hashes": {
+            "sha-256": "747bfe20a510595786e5f44447bf2f26d5338a8d6428a2fe8aa3ab5bce25d040"
+          }
+        }
+      ]
+    }
+  ]
+}
